@@ -1,8 +1,8 @@
 # 🏆 Huawei Tech Arena Hackathon Project  
-**Top 10 Finalist out of 150+ Teams**
+**Top 10 Finalist out of 500+ Teams**
 
 ## 📌 Overview
-This project was developed as part of the **Huawei Tech Arena Hackathon**, where our team secured a **Top 10 position among 150+ teams**. The solution focuses on building an **LLM-powered Question Answering system** that combines retrieval and generation to deliver accurate, context-aware responses.
+This project was developed as part of the **Huawei Tech Arena Hackathon**, where our team secured a **Top 10 position among 500+ teams**. The solution focuses on building an **LLM-powered Question Answering system** that combines retrieval and generation to deliver accurate, context-aware responses.
 
 ---
 
