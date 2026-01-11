@@ -31,7 +31,7 @@ The system follows a **Retrieval-Augmented Generation (RAG)** pipeline:
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** Python  
+- **Language:** Python
 - **Framework:** PyTorch  
 - **LLM & NLP:** Hugging Face Transformers, Qwen LLM  
 - **Retrieval:** BM25 (rank_bm25)  
@@ -59,8 +59,8 @@ The system follows a **Retrieval-Augmented Generation (RAG)** pipeline:
 ---
 
 ## 🏅 Hackathon Achievement
-- **Event:** Huawei Tech Arena Hackathon  
-- **Teams Participated:** 500+  
+- **Event:** Huawei Tech Arena Hackathon,Dublin ,Ireland
+- **Teams Participated:** 500+ 
 - **Result:** Top 10 Finalist  
 
 ---
